@@ -1,0 +1,10 @@
+.container{
+    width: 906px;
+    margin: 0 auto ;
+}
+
+.header_list{
+    display: flex;
+    gap: 100px ;
+    justify-content: center;
+}
